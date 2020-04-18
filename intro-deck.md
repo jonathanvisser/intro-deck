@@ -4,71 +4,72 @@ class: title-slide
 # Our Product
 # Your people, transformed
 
+Prepared for Your Lovely Name
+
+.customer[<img src="img/customer.jpg"/>]
+
 .logo[<img src="img/logo.png"/>]
 
-.version[Author:---<br>Version: draft v0.1]
+.version[Author: ---<br>Version: draft v0.1]
 
 ---
 layout: true
 <div id="footer-content">
 <div id="footer-bar"><img id="bar" src="img/colour-bar-6px.png"/></div>
 <p><img id="tagline-logo" src="img/logo.png"/><span id="tagline"><strong>Revolution through Evolution.</strong></span></p></div>
+---
+class: center, white, footer
+background-image: url(img/jumping-man.jpeg)
+
+.credit[Photo by KAL VISUALS on Unsplash]
+
+# *Digital* Transformation is everywhere, but how do *People* fit in?
+
+.space.x5[
+.text-black[\#successishuman]
+]
 
 ---
+class:white,footer,center
+background-image: url(img/gantry2.jpeg)
 
+# Change is accelerating
 
-### CONTENTS
-
-* First Slide
-
----
-
-# First Slide
-
-.center.bold[Bold statement]
-
-???
-Some notes for you, not the audience.
-Tip: press "P" on the keyboard to enter presentation mode.
-press "F" to view the presentation full screen.
-
----
-
-# Next Steps
-
-.light.left[.box.olive[
-### Remarkable statement
-Reinforcing points:
-* Great point 1
-* Great point 2
-* Great point 3
-]]
-
+.left[
+### Evolution of People Leadership
+* 1930s: Labour Manager
+* 1960s: Personal Manager
+* 1980s: Human Resources
+* 2010s: People & Performance
+]
 .right[
-> A great quote that is not too short but gets the point across. <br>.attribution[Really Smart Person]
+### Changing nature of work
+* Job for life vs. gig economy
+* Boomers vs. Millenials
+* New models of leadership
+* Fast changing skills and technology
+]
+
+.credit[Photo by Roel Dierckens on Unsplash]
+
+---
+class:center,black,white
+
+# 85% of P&P leaders are seen to add no value
+
+.left.center[
+alsdkf
+]
+.right.center[
+lkjasf   
+df asdf f
 ]
 
 ---
+class:center,black
+background-image: url(img/success.jpeg)
 
-.condense[
-# Table
-|Summary |Number |Category |
-|:----|----:|:----:|
-|Idea 1 |10 | Dimension 1 |
-|Idea 2 |35 | Dimension 1 |
-|Idea 3 |18 | Dimension 2|
-]
+.credit[Photo by Ian Stauffer on Unsplash]
+> "Give me a lever and a place to stand,<br>and I will move the world"<br>.attribution[Archimedes] 
 
----
-
-class:dark
-background-image: url(img/the-thinker.jpeg)
-# Last thoughts
-.box.olive[
-## Remarkable statement
-Reinforcing points:
-* Great point 1
-* Great point 2
-* Great point 3
-]
-.credit[Photo by Joshua Sortino on Unsplash]
+.bold[You've chosen your place to stand.<br>Secure your legacy.]
