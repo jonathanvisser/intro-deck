@@ -328,6 +328,12 @@ a {
 .customer img{
     max-width: 230px;
 }
+.smallish{
+  font-size:78%;
+}
+.smallish h3{
+  font-size:180%;
+}
 .small{
 	font-size:67%;
 }
@@ -522,4 +528,20 @@ table {
   position: absolute;
   right:21px;
   bottom:2px;
+}
+
+.hash{
+ color:#72BC4C; 
+    margin-left: 46px;
+    bottom: 96px;
+    position: absolute;
+}
+
+.fade h3, .fade ul li{
+    color:#bbb ;
+}
+
+.box h1, .box h2, .box h3{
+  margin-bottom:0px !important;
+  margin-top:0px !important;
 }
